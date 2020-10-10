@@ -1,0 +1,22 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <title>My portfolio</title>
+        <style>
+            body{
+                background-color: darkkhaki;
+                border: 5px solid black;
+            
+            }
+        </style>    
+    </head>
+    <body>
+        <h1>Profile</h1>
+        <h2>Personal details</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2oj6dM7tx34qogmeFjq4ESPkn36RGXY6whw&usqp=CAU.jpg"/>
+        <p>Name:Amit Pandharikar</p>
+        <p>Mobile no:+91-7000572200</p>
+        <h2>Certificates</h2>
+        <button onclick="alert('Hello World')">Click Me</button>
+    </body>
+</html>
